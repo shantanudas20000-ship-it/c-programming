@@ -1,9 +1,7 @@
-# C Programming
-Basic C programs for practice.
-
-## Topics
-- Input Output
-- Conditional Statements
-- Loops
-- Arrays
+## 📌 Topics Covered
+- Basics of C
+- Loops & Patterns
+- Arrays & 2D Arrays
 - Functions
+
+🧪 Suitable for beginners and exam preparation.
