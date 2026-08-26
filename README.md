@@ -1,7 +1,29 @@
-## 📌 Topics Covered
-- Basics of C
-- Loops & Patterns
-- Arrays & 2D Arrays
-- Functions
+# C Programming 🚀
 
-🧪 Suitable for beginners and exam preparation.
+A collection of my C programming practice programs, covering programming fundamentals, arrays, strings, functions, pointers, searching, sorting, and basic data structures.
+
+## 📚 Topics Covered
+
+- C Programming Basics
+- Variables & Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Functions
+- Arrays
+- Strings
+- Pointers
+- Searching Algorithms
+- Sorting Algorithms
+- Basic Data Structures
+
+## 📂 Repository Structure
+
+```text
+c-programming/
+├── basics/
+├── arrays/
+├── strings/
+├── functions/
+├── pointers/
+└── sorting/
